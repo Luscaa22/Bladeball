@@ -7,7 +7,7 @@ local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/Lusc
     OrionLib:MakeNotification({
         Name = "Bem-vindo(a)!",
         Content = "Olá " .. playerName,
-        Image = "rbxassetid://132225387260946",
+        Image = "rbxassetid://",
         Time = 5
     })
     
